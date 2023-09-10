@@ -123,3 +123,8 @@ a i {
 a  :hover {
     color: blue;
 }
+@media  (min-width:429px) and (max-width:10000px) {
+    .text {
+        display: none;
+    }
+}
