@@ -124,7 +124,7 @@ a  :hover {
     color: blue;
 }
 @media  (min-width:429px) and (max-width:10000px) {
-    .text , a i {
+    .text , .fa-facebook {
         display: none;
     }
 }
